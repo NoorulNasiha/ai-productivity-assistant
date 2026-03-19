@@ -78,6 +78,6 @@ ai-productivity-assistant/
 - **AI Models**: Python-based NLP/ML libraries
 
 ## 👩‍💻 Author
-Developed by **NoorulNasih
+Developed by **NoorulNasiha
 
 
